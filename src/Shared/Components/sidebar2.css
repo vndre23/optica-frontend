@@ -1,0 +1,19 @@
+.bg-template-sidebar2{
+    background-color: #4F46E5;
+}
+.bg-select-template-sidebar:hover{
+    background-color: #4338CA;
+    color:white;
+}
+.bg-select-template-sidebar-selected{
+    background-color: #4338CA;
+    
+}
+.active{
+    background-color: #4338CA;
+}
+.text-sidebar2{
+    /* color:#C7D2FE; */
+    color: rgb(199,210,254);
+    
+}

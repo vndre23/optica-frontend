@@ -1,0 +1,16 @@
+@media screen and (max-width: 900px) {
+    .dialog{
+        width:50% !important;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .dialog{
+        width:80% !important;
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .dialog{
+        width:100% !important;
+    }
+  }
